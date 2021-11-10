@@ -37,7 +37,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/pitch-world.git
+  gh repo clone TheCaffeine/pitch-world-
   ```
 2. Move to the folder and install requirements
   ```bash
